@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# Spotify Data Analysis
 
 ## Dataset
 
